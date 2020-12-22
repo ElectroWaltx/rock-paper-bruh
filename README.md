@@ -1,4 +1,4 @@
-# rock-paper-bruh
+# rock-paper-scissors-bruh
 Random rock paper scissors program.
 Enter the *input* at the prompt,
 program takes random value out of a list.
